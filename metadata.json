@@ -1,0 +1,6 @@
+{
+  "name": "Kahraman Holic | كهرمان هوليك",
+  "description": "متجر كهرمان هوليك للفخامة - مجوهرات ومسابيح الكهرمان الطبيعي الأصيل في قطر | Kahraman Holic Luxury Natural Amber Jewelry & Misbaha in Qatar",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
