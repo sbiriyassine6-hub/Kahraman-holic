@@ -26,7 +26,7 @@ export const Logo: React.FC<LogoProps> = ({
     return (
       <div className={`flex flex-col items-center justify-center select-none ${className}`}>
         <img
-          src={customLogoUrl}
+          src="/public/assets/aistudio/IMG_0090.png
           alt="Kahraman Holic | كهرمان هوليك"
           className={`${heightMap[size]} w-auto object-contain drop-shadow-md`}
         />
