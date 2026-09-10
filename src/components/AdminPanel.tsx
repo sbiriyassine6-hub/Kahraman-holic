@@ -96,8 +96,8 @@ export const AdminPanel: React.FC = () => {
   // Handle Admin Passcode Login
   const handleLogin = (e: React.FormEvent) => {
     e.preventDefault();
-    // Default passcodes: '1234' or 'kahraman' or 'admin'
-    if (passcode === '1234' || passcode.toLowerCase() === 'kahraman' || passcode === 'admin') {
+    // Default passcodes: '1937'
+    if (passcode === '1937' )
       setAdminAuthenticated(true);
       setAuthError(false);
       setPasscode('');
